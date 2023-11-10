@@ -15,3 +15,4 @@ Created numeric binary flags off various columns of data using vectorized string
 ![](Screen%20Shot%202021-08-02%20at%203.20.54%20PM.png)
 ![](Screenshot%20at%20Jul%2029%2011-00-05.png)
 ![](Screenshot%20at%20Jul%2029%2011-00-41.png)
+![](Screenshot%20at%20Jul%2029%2010-35-38.png)
